@@ -1,1 +1,1 @@
-{"faded", "fame"}
+["faded", "fame"]
